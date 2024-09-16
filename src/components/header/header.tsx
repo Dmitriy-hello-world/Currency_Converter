@@ -5,7 +5,7 @@ import {
 	Toolbar,
 	Typography,
 } from '@mui/material'
-import styles from './Header.module.scss'
+import styles from './header.module.scss'
 import { HeaderProps } from './types'
 
 const Header = ({ rates, loading }: HeaderProps) => {
